@@ -1,0 +1,26 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<siteData>
+    <headerData>
+        <data key="titredusite">The regions of Senegal</data>
+    </headerData>
+    <menuData>
+        <data key="dakarName">Dakar</data>
+        <data key="ZigName">Saint-Louis</data>
+        <data key="slName">Ziguinchor</data>
+        <data key="lg1">Wolof</data>
+        <data key="lg2">French</data>
+        <data key="lg3">English</data>
+    </menuData>
+    <contentData>
+        <h2>SAINT LOUIS</h2>
+        <p>
+            Saint-Louis, Ndar in Wolof, often called "Saint-Louis-du-Senegal", is one of the largest cities in Senegal and, historically, one of the most important, as evidenced by its inscription on the list of Unesco World Heritage. It was one of the four historic ("Four Vieilles") communes of Senegal with the status of a French department.
+
+            Saint-Louis is located at the mouth of the Senegal River, 264 km1 north of the country's capital, Dakar, near the border with Mauritania. Due to this geographical situation, at the time of the creation of the French counter, it is simply called "Island of Senegal", then "colony of Senegal"; this name will be extended to all of present-day Senegal after the annexations following the Berlin conference. The Republic of Senegal will in turn take over the name of the river during its independence in 1960.
+        </p>
+    </contentData>
+
+    <footerData>
+        <p>Copyright © Gouv.sn</p>
+    </footerData>
+</siteData>

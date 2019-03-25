@@ -1,0 +1,27 @@
+	/*
+	* Bramslo 17
+	* Devellopeur FullStack
+	* Dakar - Senegal 
+	* me@bramslo17.online
+	*/
+
+body{
+	width: 100%;
+}
+img{
+	width: 70%;
+}
+table{
+	margin: auto;
+}
+tr{
+	text-align: center;
+	background-color: #3f3f3f;
+	color: white
+}
+td{
+	padding: 5px;
+}
+p{
+	text-align: justify;
+}

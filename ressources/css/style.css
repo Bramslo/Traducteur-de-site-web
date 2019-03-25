@@ -1,0 +1,77 @@
+	/*
+	* Bramslo 17
+	* Devellopeur FullStack
+	* Dakar - Senegal 
+	* me@bramslo17.online
+  */
+  
+  
+
+
+header{
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: 100px;
+  font-size: 30px;
+  justify-content: center; 
+  display: flex;
+  align-items: center;
+}
+img{
+	width: 50%;
+	height: 50%;
+}
+body{
+  background-color: #eee;
+  width: 100%;
+  height:100%;
+}
+footer{
+  background-color: #3f3f3f;
+  color: white;
+  text-align: center;
+  height: 50px;
+}
+iframe{
+	width: 100%;
+	height: 500px;
+}
+.nav-sidebar { 
+    padding: 5px 0; 
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    height: 250px;
+    background-color: #ddd;
+    font-size: 20px;
+}
+.nav-sidebar a {
+    color: #333;
+    -webkit-transition: all 0.08s linear;
+    -moz-transition: all 0.08s linear;
+    -o-transition: all 0.08s linear;
+    transition: all 0.08s linear;
+    -webkit-border-radius: 4px 0 0 4px; 
+    -moz-border-radius: 4px 0 0 4px; 
+    border-radius: 4px 0 0 4px; 
+}
+.nav-sidebar .active a { 
+    background: black;
+    color: white;
+}
+.nav-sidebar .active a:hover {
+	-webkit-transform: scale(1);
+	-webkit-box-shadow:0px 0px 0 0px lightseagreen inset;
+    cursor: pointer; 
+    -webkit-transition: all 0.5s ease-in-out;  
+}
+select{
+	position: absolute;
+	bottom: 0;
+    letter-spacing: 9px;
+}
+footer{
+	justify-content: center;
+	display: flex;
+ 	align-items: center;
+}

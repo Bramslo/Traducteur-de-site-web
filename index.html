@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+		<!--
+		        * Bramslo 17
+		        * Devellopeur FullStack
+		        * Dakar - Senegal
+		        * me@bramslo17.online
+		        * -->
+<html>
+<head>
+	<title>Les régions du senegal</title>
+	<link rel="stylesheet" type="text/css" href="./ressources/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="./ressources/css/style.css">
+	<meta charset="utf-8">
+</head>
+<body>
+<!--DEBUT DE NOTRE DIV CONTENEUR-->
+<div class="container">
+
+	<!--DEBUT DE NOTRE ENTETE DE PAGE-->
+	<header class="col-lg-12">
+		<div class="col-sm-4">
+			<img src="ressources/images/senegal.png">
+		</div>
+		<div class="col-sm-8">
+			<p id="headtitle">Les régions du Sénégal</p>
+		</div>
+	</header>
+	<!--FIN DE NOTRE ENTETE DE PAGE-->
+
+	<!--DEBUT DE NOTRE MENU-->
+    <nav class="col-lg-4 nav-sidebar">
+    	<!--MENU DE NAVIGATION-->
+        <ul class="nav">
+        	<li class="nav-divider"></li>
+            <li class="active">
+                <a target="frame" href="ressources/pages/dakar.html" onclick="montremoi('frame', this.href , this); return false ;">Dakar</a>
+            </li>
+            <li>
+                <a target="frame" href="ressources/pages/saintlouis.html" onclick="montremoi('frame', this.href , this); return false ;">Saint-Louis</a>
+            </li>
+            <li>
+                <a target="frame" href="ressources/pages/Ziguinchor.html" onclick="montremoi('frame', this.href , this); return false ;">Ziguinchor</a>
+            </li>
+            <li class="nav-divider"></li>
+        </ul>
+
+        <!--MENU POUR CHANGER LA LANGUE-->
+        <select id="choix" class="form-control" onchange="VoirSelection(this);return false;">
+		  <option value="wo">Wolof</option>
+		  <option value="fr">Français</option>
+		  <option value="en">Anglais</option>
+		</select>
+
+    </nav>
+	<!--FIN DE NOTRE MENU-->
+
+	<!--DEBUT DU MAIN - CONTENEUR D'IFRAME-->
+    <main class="col-lg-8">
+        <iframe id="frame" src="ressources/pages/dakar.html" frameborder="1"></iframe>
+    </main>
+    <!--FIN DU MAIN - CONTENEUR D'IFRAME-->
+
+    <!--DEBUT DE NOTRE PIEDS DE PAGE-->
+	<footer class="col-lg-12">
+	    <span>Copyright © <a href="https://www.bramslo17.online">bramslo17.online</a></span>
+	</footer>
+    <!--FIN DE NOTRE PIEDS DE PAGE-->
+
+<script type="text/javascript" src="ressources/js/main.js"></script>
+</div>
+<!--FIN DE NOTRE DIV CONTENEUR-->
+</body>
+</html>

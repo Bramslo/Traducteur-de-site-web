@@ -1,0 +1,32 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<siteData>
+    <headerData>
+        <data key="titredusite">Les régions du sénégal</data>
+    </headerData>
+    <menuData>
+        <data key="dakarName">Dakar</data>
+        <data key="ZigName">Saint-Louis</data>
+        <data key="slName">Ziguinchor</data>
+        <data key="lg1">Wolof</data>
+        <data key="lg2">Français</data>
+        <data key="lg3">Anglais</data>
+    </menuData>
+    <contentData>
+            <h2 key="RegionName">DAKAR</h2>
+        <p>La ville de Dakar (en wolof : Ndakaaru) est la capitale de la République du Sénégal et de la région de Dakar. Elle compte 1 056 0091 habitants sur les 3 630 000 habitants (estimation 20182) que compte l'ensemble de la région de Dakar. C'est une des quatre communes historiques du Sénégal et l'ancienne capitale de l'Afrique-Occidentale française (AOF).
+            Saint-Louis 1868
+            Carte Dakar
+            Sous la double action des apports migratoires depuis les campagnes et de l'accroissement naturel, la région de Dakar s'est très rapidement développée. Elle est ainsi passée de 400 000 habitants en 1970 à 3,6 millions d'habitants en 2018 soit une augmentation de près de 5% par an. Métropole macrocéphale, elle accueille la moitié de la population urbaine du pays.
+            
+            Sa situation à l'extrémité occidentale de l'Afrique, sur l'étroite presqu'île du Cap-Vert, a favorisé l'installation des premiers colons, puis le commerce avec le Nouveau Monde, et lui confère une position privilégiée à l'intersection des cultures africaines et européennes. Organisatrice du premier Festival mondial des Arts nègres voulu par le président Léopold Sédar Senghor en 1966, la ville est le siège de l'Institut fondamental d'Afrique noire et de la Banque centrale des États de l'Afrique de l'Ouest.
+            
+            Aujourd'hui le Dak'Art (la Biennale d'art contemporain) contribue à son rayonnement international. Aux quartiers populaires et aux infrastructures héritées de l'époque coloniale – le port, la gare, le palais présidentiel ou la cathédrale du Souvenir africain, ainsi que le remarquable patrimoine de l'île de Gorée toute proche – se sont ajoutés des édifices plus modernes tels que l'université Cheikh-Anta-Diop, la Grande Mosquée, la Porte du Troisième millénaire et le Monument de la Renaissance africaine.
+            
+            N'occupant que 0,28 % du territoire national, la région de Dakar regroupe sur 550 km2, 25 % de la population et concentre 80 % des activités économiques du pays3.
+        </p>
+    </contentData>
+
+    <footerData>
+        <p>Droits d'auteurs © Gouv.sn</p>
+    </footerData>
+</siteData>
